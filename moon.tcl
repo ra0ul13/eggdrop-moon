@@ -1,3 +1,4 @@
+# v0.1
 bind pub - !moon pub:moon
 
 proc pub:moon {nick uhost handle chan arg} {
